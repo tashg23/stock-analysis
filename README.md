@@ -28,5 +28,5 @@ However, the refactored code only took 0.063 seconds to run for the 2017 dataset
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/113721712/207432345-30e5bb68-625c-44e9-b4dc-11c64e033bd2.png)
 
-
+Thus, refactoring improved the performance of this code so that more stocks could be analyzed for many different years. 
 
