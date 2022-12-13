@@ -20,7 +20,7 @@ The advantages of refactoring code are:
 The disadvantages of refactoring: 
 - Time consuming 
 
-The advantages of the refactored code in comparison to the original is firstly that it can be used for any year of data based on user input. Also, there were no nested loops that were used; instead 3 separate for loops were used which makes the code easier to read and understand. Due to the refactoring, the performance of the code improved. For 2017, the original code took 0.79 seconds to run (see image below). 
+The advantages of the refactored code in comparison to the original is firstly that it can be used for any year of data based on user input. Also, no nested loops were used; instead 3 separate for loops were used which makes the code easier to read and understand. Due to the refactoring, the performance of the code improved. For 2017, the original code took 0.79 seconds to run (see image below). 
 
 ![VBA_Challenge_2017_original code](https://user-images.githubusercontent.com/113721712/207432175-2e6d87b0-6c6e-4484-99fb-662ade5edc1d.png)
 
