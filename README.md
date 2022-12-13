@@ -4,7 +4,7 @@
 To analyze the performance of 12 stocks for the years 2017 and 2018 by calculating the volume and return of each stock. 
 
 ### Results: 
-- The stock market performed very well in 2017 and investors would have made a positive return on their investment, except for those that invested in the stock "TERP" 
+- Based on the 'Return' column, the stock market performed very well in 2017 and investors would have made a positive return on their investment, except for those that invested in the stock "TERP" 
 
 ![VBA_Challenge_2017_Results](https://user-images.githubusercontent.com/113721712/207429706-1c12b641-6768-4855-911e-67ad7d03c622.png)
 
